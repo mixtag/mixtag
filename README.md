@@ -1,5 +1,5 @@
 # mixtag
-API for generating transitional mixes based on advanced audio metadata. This project can be split into these aspects:
+Ecosystem for generating transitional mixes based on advanced audio metadata. This project can be split into these aspects:
 
 ## the mixtag filetype
 In a nutsheell: audio fingerprint + MIDI synced to fingerprint + extra metadata, e.g. which sections are choruses, verses, instrumental breaks, etc. It will probably be based on Echoprint or some other open source audio fingerprint system.
