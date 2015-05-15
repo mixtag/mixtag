@@ -1,4 +1,4 @@
-# WIP 
+# WIP WIP
 
 # mixtag
 Ecosystem for generating transitional mixes based on advanced audio metadata. This project can be split into these aspects:
